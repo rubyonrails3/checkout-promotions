@@ -1,0 +1,2 @@
+module PromotionalRules
+end
